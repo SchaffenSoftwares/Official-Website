@@ -1,3 +1,17 @@
+var firebaseConfig = {
+  apiKey: "AIzaSyAFZzxZRwlywHOhkS6_z_Eqcw9PR7krlYs",
+  authDomain: "schaffen-website.firebaseapp.com",
+  databaseURL: "https://schaffen-website.firebaseio.com",
+  projectId: "schaffen-website",
+  storageBucket: "schaffen-website.appspot.com",
+  messagingSenderId: "947635884596",
+  appId: "1:947635884596:web:aae407a4b673ef4b353061",
+  measurementId: "G-YB5QEG7XDG"
+};
+// Initialize Firebase
+firebase.initializeApp(firebaseConfig);
+firebase.analytics();
+
 jQuery(document).ready(function($) {
   "use strict";
 
@@ -89,14 +103,12 @@ jQuery(document).ready(function($) {
       }
     });
     if (ferror) return false;
-    else var str = $(this).serialize();
-    var action = $(this).attr('action');
-    if( ! action ) {
-      action = 'contactform/contactform.php';
-    }
-    $.ajax({
+    /*else var str = $(this).serialize();
+    var action = $(this).attr('action');*/
+    
+    /*$.ajax({
       type: "POST",
-      url: action,
+      //url: action,
       data: str,
       success: function(msg) {
         // alert(msg);
@@ -111,8 +123,56 @@ jQuery(document).ready(function($) {
         }
 
       }
-    });
+    });*/
     return false;
   });
 
 });
+
+function sendMessage()
+{
+  console.log("Message Sent");
+
+  name = document.querySelector("#name").value;
+  email = document.querySelector("#email").value;
+  subject = document.querySelector("#subject").value;
+  conMessage = document.querySelector("#conMessage").value;
+
+  console.log(name+email+subject+conMessage);
+
+  var db = firebase.firestore();
+
+  db.collection('Contact').doc(email).set({
+    name: name,
+    email: email,
+    subject: subject,
+    message: conMessage
+  })
+  .then(function() {
+      console.log("Document successfully written!");
+      $("#sendmessage").addClass("show");
+      $("#errormessage").removeClass("show");
+      $('.contactForm').find("input, textarea").val("");
+  })
+  .catch(function(error) {
+      console.error("Error writing document: ", error);
+      $("#sendmessage").removeClass("show");
+      $("#errormessage").addClass("show");
+      $('#errormessage').html(msg);
+  });
+}
+
+function subscribe()
+{
+  email = document.querySelector("#subEmail").value;
+  var db = firebase.firestore();
+
+  db.collection('Subscribers').doc(email).set({
+    email: email,
+  })
+  .then(function()
+  {
+    $('.subscriber').find("input").val("");
+    console.log("Subscribed");
+  });
+}

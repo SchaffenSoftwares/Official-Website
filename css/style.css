@@ -231,10 +231,10 @@ h6 {
 
 /* Desktop Navigation */
 
-.main-nav {
+/*.main-nav {*/
   /* Drop Down */
   /* Deep Drop Down */
-}
+/*}*/
 
 .main-nav,
 .main-nav * {
@@ -1155,7 +1155,7 @@ h6 {
   font-size: 14px;
 }
 
-#contact .form button[type="submit"] {
+#contact .form button[type="submit"], #sendbutton {
   background: #007bff;
   border: 0;
   border-radius: 20px;
@@ -1164,7 +1164,7 @@ h6 {
   transition: 0.3s;
 }
 
-#contact .form button[type="submit"]:hover {
+#contact .form button[type="submit"]:hover, #sendbutton {
   background: #0067d5;
   cursor: pointer;
 }
@@ -1282,7 +1282,7 @@ h6 {
   width: 65%;
 }
 
-#footer .footer-top .footer-newsletter input[type="submit"] {
+#footer .footer-top .footer-newsletter input[type="submit"], #subButton {
   background: #007bff;
   border: 0;
   width: 35%;
@@ -1293,7 +1293,7 @@ h6 {
   cursor: pointer;
 }
 
-#footer .footer-top .footer-newsletter input[type="submit"]:hover {
+#footer .footer-top .footer-newsletter input[type="submit"]:hover, #subButton {
   background: #0062cc;
 }
 
