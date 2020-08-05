@@ -1,0 +1,291 @@
+<!--==========================
+      Team Section
+    ============================-->
+    <section id="team">
+      <div class="container">
+        <div class="section-header">
+          <h3>Team</h3>
+          <p>Behind our firm, these are pillars of our organization who help it in sustaining to what it is</p>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="member">
+              <img src="" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4></h4>
+                  <span></span>
+                  <div class="social">
+                    <a href="https://mobile.twitter.com/Siddhan87132977"><i class=""></i></a>
+                    <a href="https://m.facebook.com/profile.php?id=100047249887631"><i class=""></i></a>
+                    <a href="https://www.instagram.com/siddhanttk/"><i class=""></i></a>
+                    <a href="https://www.linkedin.com/in/siddhant-khare-13b91219a"><i class=""></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-lg-3 col-md-6 wow fadeInUp">
+            <div class="member">
+              <img src="img/Dhiransh.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Dhiransh</h4>
+                  <span>President</span>
+                  <div class="social">
+                    <a href="https://twitter.com/DhiranshSaxena"><i class="fa fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/profile.php?id=100016090263288"><i class="fa fa-facebook"></i></a>
+                    <a href="https://www.instagram.com/dhiranshsaxena/"><i class="fa fa-instagram"></i></a>
+                    <a href="www.linkedin.com/in/dhiransh-saxena"><i class="fa fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="member">
+              <img src="img/Siddhant.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Siddhant</h4>
+                  <span>Vice President</span>
+                  <div class="social">
+                    <a href="https://mobile.twitter.com/Siddhan87132977"><i class="fa fa-twitter"></i></a>
+                    <a href="https://m.facebook.com/profile.php?id=100047249887631"><i class="fa fa-facebook"></i></a>
+                    <a href="https://www.instagram.com/siddhanttk/"><i class="fa fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/siddhant-khare-13b91219a"><i class="fa fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="member">
+              <img src="" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4></h4>
+                  <span></span>
+                  <div class="social">
+                    <a href="https://mobile.twitter.com/Siddhan87132977"><i class=""></i></a>
+                    <a href="https://m.facebook.com/profile.php?id=100047249887631"><i class=""></i></a>
+                    <a href="https://www.instagram.com/siddhanttk/"><i class=""></i></a>
+                    <a href="https://www.linkedin.com/in/siddhant-khare-13b91219a"><i class=""></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+            <div class="member">
+              <img src="img/Aayesha.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Aayesha</h4>
+                  <span>Projects Lead</span>
+                  <div class="social">
+                    <a href="https://twitter.com/nomaniaayesha?lang=en"><i class="fa fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/aayesha.nomani"><i class="fa fa-facebook"></i></a>
+                    <a href="https://www.instagram.com/aayeshanomani/?hl=en"><i class="fa fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/aayesha-nomani-09031016b/?originalSubdomain=in"><i class="fa fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+            <div class="member">
+              <img src="img/akarsh.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Aakarsh</h4>
+                  <span>General Secretary</span>
+                  <div class="social">
+                    <a href="https://twitter.com/AkarshS80409328?s=09"><i class="fa fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/akarsh.srivastav.520"><i class="fa fa-facebook"></i></a>
+                    <a href="https://instagram.com/_aakarsh.srivastav_?igshid=1ck46wk4uwoc2"><i class="fa fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/aakarsh-srivastav-2567811b0"><i class="fa fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+            <div class="member">
+              <img src="img/Harshita.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Harshita</h4>
+                  <span>HR Director</span>
+                  <div class="social">
+                    <a href="https://twitter.com/Harshit20965162?s=08"><i class="fa fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/harshita.dubey.5855594"><i class="fa fa-facebook"></i></a>
+                    <a href="https://instagram.com/_harshitaa._?igshid=1wbk8dj5318i2"><i class="fa fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/harshita-dubey-908a2a1b1"><i class="fa fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+            <div class="member">
+              <img src="img/Sakshi.jpeg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Sakshi</h4>
+                  <span>Operations and Outreach Director</span>
+                  <div class="social">
+                    <a href="https://twitter.com/sakshiEmpowers"><i class="fa fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/sakshi.saxena.370/"><i class="fa fa-facebook"></i></a>
+                    <a href="https://www.instagram.com/_sakshisaxena/"><i class="fa fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/sakshi-saxena-356717186"><i class="fa fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+            <div class="member">
+              <img src="img/Amough.jpeg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Amough</h4>
+                  <span>Finance Director</span>
+                  <div class="social">
+                    <a href="https://twitter.com/AmoughTewari?s=09"><i class="fa fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/AmoughTewari"><i class="fa fa-facebook"></i></a>
+                    <a href="https://www.instagram.com/amough_tewari/"><i class="fa fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/amough-tewari-4b6714194"><i class="fa fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+            <div class="member">
+              <img src="img/Nitigya.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Nitigya</h4>
+                  <span>Design Head</span>
+                  <div class="social">
+                    <a href="https://mobile.twitter.com/nitigyatiwari"><i class="fa fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/nitigya.tiwari.3"><i class="fa fa-facebook"></i></a>
+                    <a href="https://instagram.com/nitigya_06?igshid=z0ravoxgjmhq"><i class="fa fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/nitigya-tiwari-9b1444199"><i class="fa fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+            <div class="member">
+              <img src="img/Sahai.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Aarsh</h4>
+                  <span>Media Head</span>
+                  <div class="social">
+                    <a href="https://www.twitter.com/mr_sahai"><i class="fa fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/aarsh.sahai"><i class="fa fa-facebook"></i></a>
+                    <a href="https://www.instagram.com/_that.nikon.guy/"><i class="fa fa-instagram"></i></a>
+                    <a href="https://in.linkedin.com/in/aarsh-sahai-06093bb6"><i class="fa fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+            <div class="member">
+              <img src="img/Faraaz.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Faraaz</h4>
+                  <span>Technical Mentor</span>
+                  <div class="social">
+                    <a href="https://twitter.com/not_me_tho"><i class="fa fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/faraaz.usmani.5/"><i class="fa fa-facebook"></i></a>
+                    <a href="https://www.instagram.com/faraaz_usmani/"><i class="fa fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/faraaz-usmani-7663a7193/"><i class="fa fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+            <div class="member">
+              <img src="img/Purvil.jpeg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Purvil</h4>
+                  <span>Research Lead</span>
+                  <div class="social">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+            <div class="member">
+              <img src="img/Kanushree.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Kanushree</h4>
+                  <span>Publicity Director</span>
+                  <div class="social">
+                    <a href="https://twitter.com/KanushreeAgarw1?s=09"><i class="fa fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/kanushree.agarwal.7"><i class="fa fa-facebook"></i></a>
+                    <a href="https://instagram.com/_kanushree_?igshid=h2uwdirwp1x6"><i class="fa fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/kanushree-agarwal-7a4a361b1"><i class="fa fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+            <div class="member">
+              <img src="img/Riya.png" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Riya</h4>
+                  <span>Marketing Director</span>
+                  <div class="social">
+                    <a href="https://www.facebook.com/profile.php?id=100051921162925"><i class="fa fa-facebook"></i></a>
+                    <a href="https://instagram.com/riyayayayaya__._?igshid=15qdvbrfluf8e"><i class="fa fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/riya-srivastava-b863411aa"><i class="fa fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+            <div class="member">
+              <img src="img/Siddharth.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Siddhartha</h4>
+                  <span>Editorial Head</span>
+                  <div class="social">
+                    <a href="https://twitter.com/siddhartha6421?s=09"><i class="fa fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/profile.php?id=100010482692010"><i class="fa fa-facebook"></i></a>
+                    <a href="https://www.instagram.com/_siddharthasingh_"><i class="fa fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/siddhartha-singh-4153581b3"><i class="fa fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- #team -->
