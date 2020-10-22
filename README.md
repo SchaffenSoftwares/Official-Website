@@ -31,7 +31,6 @@
 ```
 $ git clone https://github.com/SchaffenSoftwares/<Project>
 $ cd <Project>
-
 ```
 
 ## Contributors
