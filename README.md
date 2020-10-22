@@ -4,36 +4,39 @@
 # Schaffen Softwares Official Website
 
 > The Official Website of Schaffen Softwares
-> School-Hub is an Android Application which is developed using Flutter as Front-End and Firebase as Backend. This Android Application is contains all the all required features that will help student in solution of queries that a School Students faces in his/her Daily Life.
+> This is the Official Site of Schaffen Softwares made with HTML, CSS, JavaScript, Bootstrap and Firebase as Backend. 
 
 ---
 [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
   [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](INSERT_UI_LINK_HERE)
 
 ## Features
-- Notices of Schools that are circulated.
-- Previous Years Papers of Schools.
-- Weekly Interviews of Schools Alumni
-- Memes on Subjects and Education System, So that Students can get a clear concept of Subjects while having fun.
-- A Discussion Box to post your queries or solve one.
+- Information about Schaffen Softwares
+- Information about Our Departments
+- Portfoilio of Our Projects
+- Testimonials of Our Guests.
+- Information of our Team
+- Contact Informations and Forms
 
 ## Screenshots
-<img src="https://imgur.com/a/VRmfjKE" alt="Project Screenshots">
-<img src="" alt="Project Screenshots">
-<img src="" alt="Project Screenshots">
+<img src="https://i.postimg.cc/1tX1wT6D/Screenshot-2.png" alt="Project Screenshots">
+<img src="https://i.postimg.cc/tgC4vBW4/Screenshot-3.png" alt="Project Screenshots">
+<img src="https://i.postimg.cc/tRVCcZZW/Screenshot-4.png" alt="Project Screenshots">
+<img src="https://i.postimg.cc/s2X34vCB/Screenshot-5.png" alt="Project Screenshots">
+<img src="https://i.postimg.cc/5NxTCDVy/Screenshot-6.png" alt="Project Screenshots">
+<img src="https://i.postimg.cc/63rb7fbC/Screenshot-7.png" alt="Project Screenshots">
+<img src="https://i.postimg.cc/YqqD9g6m/Screenshot-8.png" alt="Project Screenshots">
 
 ## Instructions to run
 ```
 $ git clone https://github.com/SchaffenSoftwares/<Project>
 $ cd <Project>
-$ flutter packages get
-$ flutter run
-$ flutter build apk --release
+
 ```
 
 ## Contributors
 - <a href="https://github.com/DhiranshSaxena">Dhiransh Saxena</a>
-- <a href="https://github.com/AwsmAsim">Asim Junaid</a>
+- <a href="https://github.com/aayeshanomani">Aayesha Nomani</a>
 
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
